@@ -1,0 +1,4 @@
+python-snap7==1.4.1
+streamlit==1.45.1
+plotly==6.1.2
+pandas==2.3.0
